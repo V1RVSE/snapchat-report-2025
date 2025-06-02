@@ -1,33 +1,33 @@
 ## Case Overview
 **Status:** Documented & Reported
 **Reported On:** [2025-05-02]
-**Tags:** #OSINT #scam #snapchat #lex
+**Tags:** #OSINT #SocialEngineering #ScamInvestigation #Lex #Snapchat
 
 ## Summary
-A Scammer posing as a sugar mommy contacted me via Lex and moved to Snapchat, attempting to scam me through emotional manipulation and false promises of money.
+While browsing a dating app, I was approached by a user claiming to be a "sugar mommy" offering money for companionship. The interaction shifted quickly to another platform, where emotional manipulation and pressure tactics were used to extract personal information.
+
+Recognizing scam indicators, I conducted a small-scale OSINT investigation to safely gather evidence and document the scam process before reporting it to the FTC and FBI.
 
 ## Timeline of Events
-- April 28, 2025: Initial context on Lex by a user named Clara, the "Sugar Baby".
-- April 29, 2025: Referred to Areyona Urquhart, the "Sugar Mommy" and moved to Snapchat after Lex referral. 
-- April 29-May 2, 2025: Engaged in back-and-forth questioning to avoid giving out personal info. 
-- As I was gathering evidence via Snapchat, the user had blocked me immediately.
-- May 2, 2025: Reported to the Federal Trade Commission and Federal Bureau of Investigation.
+- April 28, 2025: Initial approach on a dating platform by an account offering sugar arrangements.
+- April 29, 2025: Conversation migrated to a messaging app. The new account appeared coordinated with the first. 
+- April 29–May 2, 2025: I maintained communication to document tactics while withholding personal details.
+- May 2, 2025: I was blocked after questioning inconsistencies. Reports were filed with federal authorities.
 
-## Scammer Information
-### Snapchat Scammer - Areyona Urquhart
-- Handle: @areyona033
-- Removed/blocked after evidence was collected.
-### Lex Referral - Clara
-- Username: @claralexx88
-- Appeared to be controlled by the same person or network.
-
-See [Evidence Collected](https://drive.google.com/drive/u/4/folders/1Eryn5tVOxoMF_8RLCxeE3c2ly11o3mez) for images. See [Document](https://docs.google.com/document/d/1ShIjGD1nvf8XlbfsHialBN-5wHVsLIhx9Eeu8IkLE5g/edit?usp=sharing) for full investigation report.
+## Methodology
+- I applied OSINT fundamentals, including:
+- Analyzing profile activity patterns and language use
+- Capturing metadata and timestamps from communications
+- Reverse searching associated images (where possible)
+- Archiving evidence securely and ethically
+No unauthorized access, impersonation, or invasive techniques were used.
 
 ## Outcome and Reflections
 ### Outcome
-- Successfully avoided scam
-- Reported to the authorities (FTC & FBI)
-- Scammer blocked main Snapchat account
+- Scam attempt avoided
+- Report submitted to the FTC and FBI IC3
+- Full Snapchat log not preserved due to account block
+- Key artifacts retaned (redacted in private copy)
 
 ### Reflections
 - Missed chance to document **full** Snapchat logs
