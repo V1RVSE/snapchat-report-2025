@@ -4,7 +4,7 @@
 **Tags:** #OSINT #SocialEngineering #ScamInvestigation #Lex #Snapchat
 
 ## Summary
-While browsing a dating app, I was approached by a user claiming to be a "sugar mommy" offering money for companionship. The interaction shifted quickly to another platform, where emotional manipulation and pressure tactics were used to extract personal information.
+While browsing a dating app, I was approached by a user claiming to be a "sugar baby" offering to refer to me to her "sugar mommy." The interaction shifted quickly to another platform, where emotional manipulation and pressure tactics were used to extract personal information.
 
 Recognizing scam indicators, I conducted a small-scale OSINT investigation to safely gather evidence and document the scam process before reporting it to the FTC and FBI.
 
