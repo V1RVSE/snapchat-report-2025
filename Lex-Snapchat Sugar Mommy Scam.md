@@ -27,7 +27,7 @@ No unauthorized access, impersonation, or invasive techniques were used.
 - Scam attempt avoided
 - Report submitted to the FTC and FBI IC3
 - Full Snapchat log not preserved due to account block
-- Key artifacts retaned (redacted in private copy)
+- Key artifacts retained (redacted in private copy)
 
 ### Reflections
 - Missed chance to document **full** Snapchat logs
