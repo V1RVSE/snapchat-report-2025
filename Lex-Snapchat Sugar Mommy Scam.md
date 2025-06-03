@@ -20,7 +20,7 @@ I applied OSINT fundamentals, including:
 - Capturing metadata and timestamps from communications
 - Reverse searching associated images (where possible)
 - Archiving evidence securely and ethically
-[[No unauthorized access, impersonation, or invasive techniques were used.]]
+- No unauthorized access, impersonation, or invasive techniques were used.
 
 ## Outcome and Reflections
 ### Outcome
