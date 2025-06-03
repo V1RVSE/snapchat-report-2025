@@ -15,7 +15,7 @@ Recognizing scam indicators, I conducted a small-scale OSINT investigation to sa
 - May 2, 2025: I was blocked after questioning inconsistencies. Reports were filed with federal authorities.
 
 ## Methodology
-- I applied OSINT fundamentals, including:
+I applied OSINT fundamentals, including:
 - Analyzing profile activity patterns and language use
 - Capturing metadata and timestamps from communications
 - Reverse searching associated images (where possible)
